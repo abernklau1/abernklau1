@@ -7,6 +7,9 @@
   <a href="https://medium.com/@andrewbernklau98">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge">
   </a>
+    <a href="https://codepen.io/abernklau1">
+    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="Medium Badge">
+  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=abernklau1&style=flat-square&color=blue" alt="">
   <h1>
@@ -16,8 +19,8 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Data Scientist and self-taught Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
- - :seedling: I’m currently learning back-end development to broaden my expertise and contribute to full stack projects.
+I am a Data Scientist working on web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colorado.
+ - :seedling: I’m currently learning full-stack web development to broaden my expertise.
  - :zap: In my free time, I love to learn. If I am not learning I don't feel productive.
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-bernklau-22737a21b/)
 
