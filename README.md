@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Data Scientist and self taught Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Data Scientist and self-taught Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
  - :seedling: I’m currently learning back-end development to broaden my expertise and contribute to full stack projects.
  - :zap: In my free time, I love to learn. If I am not learning I don't feel productive.
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-bernklau-22737a21b/)
