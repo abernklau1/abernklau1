@@ -45,12 +45,10 @@ I am a Data Scientist and self-taught Front End Developer <img src="https://medi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abernklau1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### :rofl: Joke of the Day: 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&qColor=%23F0A500&aColor=%234FBDBA)
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
