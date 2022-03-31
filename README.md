@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
   <div id="badges">
   <a href="https://www.linkedin.com/in/andrew-bernklau-22737a21b/">
@@ -11,14 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=abernklau1&style=flat-square&color=blue" alt="">
   <h1>
   What's up?
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 ### :man_technologist: About Me :
 I am a Data Scientist and self taught Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
