@@ -49,6 +49,13 @@ I am a Data Scientist working on web development <img src="https://media.giphy.c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abernklau1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+CSS        1 hr 7 mins     █████████████▓░░░░░░░░░░░   54.88 %
+HTML       48 mins         █████████▓░░░░░░░░░░░░░░░   39.12 %
+Markdown   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
