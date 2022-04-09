@@ -50,9 +50,11 @@ I am a Data Scientist working on web development <img src="https://media.giphy.c
 ---
 
 ### :fire: My Stats :
+<div style="display: flex; flex-direction: row;">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abernklau1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abernklau1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--START_SECTION:waka-->
 
