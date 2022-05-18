@@ -58,9 +58,9 @@ I am a Data Scientist working on web development <img src="https://media.giphy.c
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   31 hrs          █████████████████████▓░░░   86.91 %
-CSS          2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-SCSS         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+JavaScript   29 hrs 57 mins  ██████████████████████▒░░   89.12 %
+SCSS         2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+CSS          1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
