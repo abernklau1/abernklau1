@@ -58,8 +58,7 @@ I am a Data Scientist working on web development <img src="https://media.giphy.c
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 5 mins     ████████████▓░░░░░░░░░░░░   50.17 %
-JavaScript   1 hr 5 mins     ████████████▒░░░░░░░░░░░░   49.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
