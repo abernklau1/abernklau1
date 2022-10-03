@@ -58,11 +58,12 @@ I am a Data Scientist working on web development <img src="https://media.giphy.c
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   46.77 %
-C++          1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-SCSS         50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-CSS          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+C++          2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.59 %
+JavaScript   2 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Lua          1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+SCSS         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+CMake        48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
