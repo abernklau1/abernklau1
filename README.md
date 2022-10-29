@@ -58,8 +58,7 @@ I am a Data Scientist working on web development <img src="https://media.giphy.c
 <!--START_SECTION:waka-->
 
 ```text
-Lua     33 mins         ██████████████████▓░░░░░░   74.79 %
-Other   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Other   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
