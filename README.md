@@ -7,8 +7,8 @@
   <a href="https://medium.com/@andrewbernklau98">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge">
   </a>
-    <a href="https://codepen.io/abernklau1">
-    <img src="https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white&style=for-the-badge" alt="Medium Badge">
+    <a href="https://abernklau1.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge">
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=abernklau1&style=flat-square&color=blue" alt="">
