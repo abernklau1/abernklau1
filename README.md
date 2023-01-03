@@ -58,8 +58,8 @@ I am a Data Scientist/Web Developer working on game development <img src="https:
 <!--START_SECTION:waka-->
 
 ```text
-conf    9 mins          ████████████░░░░░░░░░░░░░   47.95 %
-Other   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.00 %
+conf    9 mins          ████████████▓░░░░░░░░░░░░   50.90 %
+Other   6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.78 %
 ```
 
 <!--END_SECTION:waka-->
