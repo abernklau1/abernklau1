@@ -58,9 +58,9 @@ I am a Data Scientist/Web Developer working on game development <img src="https:
 <!--START_SECTION:waka-->
 
 ```text
-Java   2 hrs 42 mins   █████████████████████████   99.65 %
-conf   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-lir    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java   12 mins         ████████████████████████░   95.72 %
+conf   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+lir    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
