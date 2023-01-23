@@ -58,10 +58,11 @@ I am a Data Scientist/Web Developer working on game development <img src="https:
 <!--START_SECTION:waka-->
 
 ```text
-C++    1 hr 32 mins    ███████████████████████▓░   94.06 %
-lir    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Bash   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+C++    1 hr 44 mins    ███████████████████████░░   91.64 %
+lir    6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Bash   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+conf   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
