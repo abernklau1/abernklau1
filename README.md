@@ -78,8 +78,7 @@ I am a Data Scientist/Web Developer working on game development <img src="https:
 <!--START_SECTION:waka-->
 
 ```text
-Python   23 mins         █████████████████████▓░░░   86.60 %
-lir      3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
