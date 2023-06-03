@@ -77,7 +77,7 @@ I am a Data Scientist/Web Developer working on game development <img src="https:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
