@@ -19,11 +19,11 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Data Scientist/Web Developer working on game development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colorado.
- - :seedling: I’m currently learning how to build a game engine to better understand C++ and game engines in general.
+I am a Software Engineering student working on a battery management system <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ - :seedling: I’m currently learning how to develop drone payloads
  - :zap: In my free time, I love to learn. If I am not learning I don't feel productive.
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-bernklau-22737a21b/)
- - :page_facing_up: <a href="https://docs.google.com/document/d/1JMGF2PX841CKjbVdCYA8x65hpAdeRwTuFjs2l9AZlCg/edit" target="_blank" rel="noreferrer">Resume</a>
+ - :page_facing_up: <a href="https://docs.google.com/document/d/1JMGF2PX841CKjbVdCYA8x65hpAdeRwTuFjs2l9AZlCg" target="_blank" rel="noreferrer">Resume</a>
 
 ---
 
